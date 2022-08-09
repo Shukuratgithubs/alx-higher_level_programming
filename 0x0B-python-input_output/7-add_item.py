@@ -4,7 +4,6 @@ Python script that adds all args to a Python List.
 List is then saved to a file.
 """
 
-
 import sys
 import json
 from os import path
