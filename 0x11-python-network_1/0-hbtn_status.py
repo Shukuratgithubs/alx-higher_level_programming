@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """A script that
-- fetches https://intranet.hbtn.io/status.
+- fetches http://0.0.0.0:5050/status
 - uses urlib package
 """
 
